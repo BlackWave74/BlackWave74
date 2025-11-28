@@ -50,7 +50,7 @@ Trabalho diariamente com Python, automações, APIs e análise de redes ópticas
 
 ---
 
-## 📫 Contato
+## 📫 Contato - https://www.linkedin.com/in/lorenzomancini74/
 🏢 **Empresa:** Dinâmica Telecom / ISP Consulte  
 📍 **Local:** Espírito Santo – Brasil  
 
