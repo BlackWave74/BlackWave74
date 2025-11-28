@@ -26,9 +26,11 @@ Trabalho diariamente com Python, automações, APIs e análise de redes ópticas
 <div>
   <img src="https://img.shields.io/badge/FiberHome-003C71?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Huawei-FF0000?style=for-the-badge&logo=huawei&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Huawei%20NCE-CC0000?style=for-the-badge&logo=huawei&logoColor=white"/>
   <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
   <img src="https://img.shields.io/badge/Juniper-000000?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Padtec-FF7A00?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Padtec%20DWDM-FF7A00?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/IXC%20API-0052CC?style=for-the-badge&logo=atlassian&logoColor=white"/>
 </div>
 
 ### 🔹 Bancos de dados
@@ -48,16 +50,7 @@ Trabalho diariamente com Python, automações, APIs e análise de redes ópticas
 
 ---
 
-## 📊 Estatísticas GitHub
-<div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=BlackWave74&show_icons=true&theme=vision-friendly-dark"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlackWave74&layout=compact&theme=vision-friendly-dark"/>
-</div>
-
----
-
 ## 📫 Contato
-📧 **Email profissional:** *(coloque aqui se quiser)*  
 🏢 **Empresa:** Dinâmica Telecom / ISP Consulte  
 📍 **Local:** Espírito Santo – Brasil  
 
